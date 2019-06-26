@@ -1,4 +1,8 @@
 esta es la historia
-
+este es un nuevo apunte
 de la gente que busca 
 aprender
+
+
+
+aqui agregamso otro parrafo para identifcar el tercer cambio del git
