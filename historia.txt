@@ -8,3 +8,5 @@ aprender
 aqui agregamso otro parrafo para identifcar el tercer cambio del git
 
 esto fue lo ultimo que voy agregar a este documento de git
+
+su vida y obra maestra
